@@ -8,7 +8,7 @@
 
 ## Uninstall
 1. Navigate in the ACP to `Customise -> Extension Management -> Extensions`.
-2. Look for `ACP Edits` under the Enabled Extensions list, and click its `Disable` link.
+2. Look for `Board Magic` under the Enabled Extensions list, and click its `Disable` link.
 3. To permanently uninstall, click `Delete Data` and then delete the `/ext/solidjeuh/boardmagic` folder.
 
 ## License
