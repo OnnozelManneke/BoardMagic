@@ -1,0 +1,18 @@
+/**
+*
+* @package phpBB Extension - Board Magic
+* @copyright (c) 2018 Solidjeuh - https://www.muziekpromo.net
+* @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
+*
+*/
+
+#page-header {
+	background: url("../images/phpbb_logo.png") top left no-repeat;
+}
+
+/* acp main colors */
+html, body { 
+    background-image: url("../images/wallpaper.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}

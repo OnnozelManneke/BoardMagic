@@ -1,0 +1,5 @@
+services:
+    solidjeuh.boardmagic.listener:
+        class: solidjeuh\boardmagic\event\listener
+        tags:
+            - { name: event.listener }
