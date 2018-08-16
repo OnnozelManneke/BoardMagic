@@ -4,7 +4,7 @@
 1. Download the latest release and unzip the downloaded release.
 2. In the `ext` directory of your phpBB board, copy the `boardmagic` folder to `/ext/solidjeuh/`
 3. Navigate in the ACP to `Customise -> Manage extensions`.
-4. Look for `ACP Edits` under the Disabled Extensions list, and click its `Enable` link.
+4. Look for `Board Magic` under the Disabled Extensions list, and click its `Enable` link.
 
 ## Uninstall
 1. Navigate in the ACP to `Customise -> Extension Management -> Extensions`.
