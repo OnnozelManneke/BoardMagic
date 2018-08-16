@@ -7,7 +7,7 @@ Het is ook mogelijk om custom taal strings toe te voegen. Deze zullen de standaa
 
 Deze extensie zal enkel geupdate worden wanneer er nieuwe phpBB events toegevoegd worden in de standaard phpBB software.
 
-Er zal ook geen support gegevebn worden voor deze extensie. Gebruik is op eigen risico.
+Er zal ook geen support gegeveven worden voor deze extensie. Gebruik is op eigen risico.
 
 Ik gebruik deze op mijn live forum, en daar werkt alles perfect!
 
