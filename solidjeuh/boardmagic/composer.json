@@ -2,7 +2,7 @@
 	"name": "solidjeuh/boardmagic",
 	"type": "phpbb-extension",
 	"description": "Met deze extensie kan je template events, css & taal strings toevoegen of aanpassen.",
-	"homepage": "https://www.muziekpromo.net",
+	"homepage": "https://www.solidjeuh.be",
 	"version": "1.0.1",
 	"time": "2018-08-15",
 	"keywords": [
@@ -14,8 +14,8 @@
 	"authors": [
 		{
 			"name": "Solidjeuh",
-			"homepage": "https://www.muziekpromo.net",
-			"email": "info@muziekpromo.net",
+			"homepage": "https://www.solidjeuh.be",
+			"email": "info@solidjeuh.be",
 			"role": "Extension Developer"
 		}
 	],
@@ -31,7 +31,7 @@
 			"phpbb/phpbb": ">=3.1.0,<3.3"
 		},
 		"version-check": {
-            "host": "www.muziekpromo.net",
+            "host": "www.solidjeuh.be",
             "directory": "/scripts/extensies",
             "filename": "boardmagic.json",
 			"ssl": true
