@@ -2,7 +2,7 @@
 /**
 *
 * @package phpBB Extension - Board Magic
-* @copyright (c) 2018 Solidjeuh - https://www.muziekpromo.net
+* @copyright (c) 2018 Solidjeuh - https://www.solidjeuh.be
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
@@ -38,4 +38,6 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'COPYRIGHT'					                => 'Copyright &copy;',
+	'ACP_SHORT'						            => 'ACP',
+	'MCP_SHORT'						            => 'MCP',
 ));

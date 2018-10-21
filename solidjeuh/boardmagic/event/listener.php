@@ -2,7 +2,7 @@
 /**
 *
 * @package phpBB Extension - Board magic
-* @copyright (c) 2018 Solidjeuh - https://www.muziekpromo.net
+* @copyright (c) 2018 Solidjeuh - https://www.solidjeuh.be
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
