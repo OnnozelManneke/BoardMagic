@@ -3,8 +3,8 @@
 	"type": "phpbb-extension",
 	"description": "Met deze extensie kan je template events, css & taal strings toevoegen of aanpassen.",
 	"homepage": "https://www.solidjeuh.be",
-	"version": "1.0.2",
-	"time": "2018-08-15",
+	"version": "1.0.3",
+	"time": "2018-10-29",
 	"keywords": [
 		"phpbb",
 		"extension",
