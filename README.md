@@ -1,14 +1,14 @@
 # BoardMagic
-Met deze extensie kan je template events, css & taal strings toevoegen of aanpassen.
+With this extension you can add or modify template events, css & language strings.
 
-Alle template events zitten reeds in de extensie. Ook alle ACP template events zijn aanwezig.
+All template events are already in the extension. All ACP template events are also present.
 
-Het is ook mogelijk om custom taal strings toe te voegen. Deze zullen de standaard phpBB taal strings vevangen.
+It is also possible to add custom language strings. These will replace the standard phpBB language strings.
 
-Deze extensie zal enkel geupdate worden wanneer er nieuwe phpBB events toegevoegd worden in de standaard phpBB software.
+This extension will only be updated when new phpBB events are added in the standard phpBB software.
 
-Er zal ook geen support gegeveven worden voor deze extensie. Gebruik is op eigen risico.
+There will also be no support for this extension. Use is at your own risk.
 
-Ik gebruik deze op mijn live forum, en daar werkt alles perfect!
+I use it on my live forum, and everything works perfectly!
 
-https://www.muziekpromo.net
+https://www.solidjeuh.be
