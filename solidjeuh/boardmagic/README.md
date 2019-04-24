@@ -24,7 +24,7 @@ Deze extensie zal enkel geupdate worden wanneer er nieuwe phpBB events toegevoeg
 
 Ik gebruik deze op mijn live forum, en daar werkt alles perfect!
 
-Update instructions:
+## Update instructions:
 
 1. Make a backup of the extension !!
 2. Disable "Board Magic' extension
