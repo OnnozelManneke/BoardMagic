@@ -24,4 +24,19 @@ Deze extensie zal enkel geupdate worden wanneer er nieuwe phpBB events toegevoeg
 
 Ik gebruik deze op mijn live forum, en daar werkt alles perfect!
 
+Update instructions:
+
+1. Make a backup of the extension !!
+2. Disable "Board Magic' extension
+3. Upload new files
+
+    Then upload these 4 folder from your backup to regain all your edits.
+    /adm (No need to upload if you did not make any changes here)
+    /event (No need to upload if you did not make any changes here)
+    /language (No need to upload if you did not make any changes here)
+    /styles (No need to upload if you did not make any changes here)
+
+4. Activate "Board Magic' extension
+5. Clear forum cache.
+
 https://www.solidjeuh.be
