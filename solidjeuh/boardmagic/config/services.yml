@@ -2,7 +2,7 @@ services:
     solidjeuh.boardmagic.listener:
         class: solidjeuh\boardmagic\event\listener
         arguments:
-            - @config
-            - @template
+            - '@config'
+            - '@template'
         tags:
             - { name: event.listener }
