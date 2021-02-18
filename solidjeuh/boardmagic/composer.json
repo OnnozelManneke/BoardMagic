@@ -1,10 +1,10 @@
 {
 	"name": "solidjeuh/boardmagic",
 	"type": "phpbb-extension",
-	"description": "Met deze extensie kan je template events, css & taal strings toevoegen of aanpassen.",
-	"homepage": "https://www.solidjeuh.be",
-	"version": "1.0.4",
-	"time": "2019-04-25",
+	"description": "Met deze extensie kan je template events, css & taal strings toevoegen of aanpassen - With this extension you can add or edit template events, css & language strings",
+	"homepage": "https://www.onnozelmanneke.space",
+	"version": "1.0.5",
+	"time": "2021-02-18",
 	"keywords": [
 		"phpbb",
 		"extension",
@@ -13,9 +13,9 @@
 	"license": "GPL-2.0",
 	"authors": [
 		{
-			"name": "Solidjeuh",
-			"homepage": "https://www.solidjeuh.be",
-			"email": "info@solidjeuh.be",
+			"name": "Onnozel Manneke",
+			"homepage": "https://www.onnozelmanneke.space",
+			"email": "info@onnozelmanneke.space",
 			"role": "Extension Developer"
 		}
 	],
@@ -31,8 +31,8 @@
 			"phpbb/phpbb": ">=3.1.0,<3.3"
 		},
 		"version-check": {
-            "host": "www.solidjeuh.be",
-            "directory": "/scripts/extensies",
+            "host": "www.onnozelmanneke.space",
+            "directory": "/scripts/extensieupdates",
             "filename": "boardmagic.json",
 			"ssl": true
 		}

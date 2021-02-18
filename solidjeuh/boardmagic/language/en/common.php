@@ -2,7 +2,7 @@
 /**
 *
 * @package phpBB Extension - Board Magic
-* @copyright (c) 2018 Solidjeuh - https://www.solidjeuh.be
+* @copyright (c) 2021 Onnozel Manneke - https://www.onnozelmanneke.space
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
