@@ -9,4 +9,4 @@ This extension will only be updated when new phpBB events are added in the stand
 
 I use it on my live forum, and everything works perfectly!
 
-https://www.solidjeuh.be
+https://www.onnozelmanneke.space
